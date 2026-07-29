@@ -1,0 +1,19 @@
+import MarkovRenewalProcessesSemiMarkovLemmaCanonicalLaneLean.AdmissibleClass
+import MarkovRenewalProcessesSemiMarkovLemmaCanonicalLaneLean.BridgeLemmas
+import MarkovRenewalProcessesSemiMarkovLemmaCanonicalLaneLean.GateLemmas
+import MarkovRenewalProcessesSemiMarkovLemmaCanonicalLaneLean.FinalTheorem
+import MarkovRenewalProcessesSemiMarkovLemmaCanonicalLaneLean.MarkovRenewalKernel
+import MarkovRenewalProcessesSemiMarkovLemmaCanonicalLaneLean.SemiMarkovEquation
+import MarkovRenewalProcessesSemiMarkovLemmaCanonicalLaneLean.SemiMarkovLemmaProof
+
+namespace HautevilleHouse
+namespace MarkovRenewalProcessesSemiMarkovLemmaCanonicalLaneLean
+
+def sourceRepository : String :=
+  "MarkovRenewalProcessesSemiMarkovLemmaCanonicalLane"
+
+def sourceDescription : String :=
+  "Markov Renewal Processes and the Semi-Markov Lemma"
+
+end MarkovRenewalProcessesSemiMarkovLemmaCanonicalLaneLean
+end HautevilleHouse
